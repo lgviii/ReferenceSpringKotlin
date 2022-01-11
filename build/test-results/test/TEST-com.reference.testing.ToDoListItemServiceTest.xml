@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.reference.testing.ToDoListItemServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-10T06:42:18" hostname="glynn-a01.vmware.com" time="1.619">
-  <properties/>
-  <testcase name="givenRepositoryHasOneList_whenGetAllToDoLists_ThenListIsReturned()" classname="com.reference.testing.ToDoListItemServiceTest" time="1.462"/>
-  <testcase name="givenToDoItemData_whenAddToDoItem_ThenRepositorySaveCalledWithNewItemData()" classname="com.reference.testing.ToDoListItemServiceTest" time="0.157"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

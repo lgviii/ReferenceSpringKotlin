@@ -13,7 +13,7 @@ class ToDoListItemController(private val toDoListItemService: ToDoListItemServic
         return toDoListItemService.addToDoListItem(description, userId)
     }
 
-    // TODO: 9 - delete the test method body
+    // TODO: 9 - delete the method
     @GetMapping("/ByUser")
     fun getAccountById(): Map<Int, List<ToDoListItem>> {
         return toDoListItemService.getAllToDoLists()

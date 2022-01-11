@@ -14,7 +14,7 @@ class ToDoListItemService(private val toDoListItemRepository: ToDoListItemReposi
         toDoListItemRepository!!.save(newToDoListItem)
     }
 
-    // TODO: 8 - delete the test method body
+    // TODO: 8 - delete the method
     fun getAllToDoLists(): Map<Int, List<ToDoListItem>> {
 
         val allToDoListItems = toDoListItemRepository!!.findAll()
