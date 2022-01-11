@@ -43,7 +43,6 @@ class ToDoListIntegrationTest : ToDoListIntegrationTestFixture() {
         Assertions.assertThat(initialCount).isEqualTo(0)
 
         // When
-        var toDoListMapAfterAdditions = getAllToDoLists()
         addToDoItem(testToDoListItem1User1.description, testToDoListItem1User1.userId)
 
         // Then
