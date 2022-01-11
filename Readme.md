@@ -6,7 +6,7 @@
 
 This project contains a reference implementation for a Spring web backend using a database and exposing service endpoints.
 
-###Areas covered
+### Areas covered
 - Kotlin
 - Spring
 - Dependency Injection
@@ -17,7 +17,7 @@ This project contains a reference implementation for a Spring web backend using 
 
 ## Project Concept
 
-###Team to do list API
+### Team to do list API
 
 The project is setup as a simple list application. The initial state is that two endpoints are available. One allows a user to add list items and the other allows for retrieving all the lists grouped by user.
 
