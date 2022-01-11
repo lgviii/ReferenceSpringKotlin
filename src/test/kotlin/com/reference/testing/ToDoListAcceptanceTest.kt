@@ -17,6 +17,7 @@ class ToDoListAcceptanceTest : ToDoListIntegrationTestFixture() {
         ), testToDoListItem1User2.userId to listOf(testToDoListItem1User2)
     )
 
+    // TODO: 1 - delete the test method body
     @Test
     fun givenNoToDoListsExist_whenItemsAreAddedForMultipleUsers_thenListsAreAvailable() {
         // Given

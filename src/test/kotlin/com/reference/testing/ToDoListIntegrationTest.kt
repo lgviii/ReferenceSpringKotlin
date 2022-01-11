@@ -16,6 +16,7 @@ class ToDoListIntegrationTest : ToDoListIntegrationTestFixture() {
         ), testToDoListItem1User2.userId to listOf(testToDoListItem1User2)
     )
 
+    // TODO: 6 - delete the test method body
     @Test
     fun givenMultipleToDoListsExist_whenGetAllLists_thenAllListsAreReturned() {
         // Given
@@ -34,6 +35,7 @@ class ToDoListIntegrationTest : ToDoListIntegrationTestFixture() {
         Assertions.assertThat(toDoListMapAfterAdditions).isEqualTo(testToDoListMap)
     }
 
+    // TODO: 2 - delete the test method body
     @Test
     fun givenNoToDoListsExist_whenAddOneToDoItem_thenDatabaseContainsOnlyTheNewToDoItem() {
         // Given

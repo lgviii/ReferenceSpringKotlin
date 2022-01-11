@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test
 
 internal class ToDoListItemServiceTest {
 
+    // TODO: 3 - delete the test method body
     @Test
     fun givenToDoItemData_whenAddToDoItem_ThenRepositorySaveCalledWithNewItemData() {
         // given
@@ -28,6 +29,7 @@ internal class ToDoListItemServiceTest {
         assertThat(slot.captured.userId).isEqualTo(userId)
     }
 
+    // TODO: 7 - delete the test method body
     @Test
     fun givenRepositoryHasOneList_whenGetAllToDoLists_ThenListIsReturned() {
         // given

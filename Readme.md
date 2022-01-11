@@ -29,7 +29,23 @@ The project is setup as a simple list application. The initial state is that two
 
 --- 
 
-## Exercise
+## Exercise 1
+
+### Description
+
+Rewrite the current endpoints, services, and tests to see if you understand how they work. 
+
+Find the code comment tags in the format "TODO:". 
+
+For each tag, delete the indicated code. 
+
+After all the code is deleted then start at the first tag and follow the ordering of the tags to rewrite the functionality.  
+
+- Note: You can always implement the methods differently than the original code as long as the endpoint works in the same way and all code is covered by tests.
+- Note: You can always refer back to the original repository version if you get stuck.
+
+
+## Exercise 2
 
 ### Description
 
