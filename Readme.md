@@ -58,7 +58,7 @@ There is no one correct way to do this, but you can look at the current tests an
 ### Expected Features
 
 - Each team member can delete one list item at a time by referencing their user id and the item id.
-- If a team member attempts to delete a itme that does not exist, an error is returned.
+- If a team member attempts to delete a item that does not exist, an error is returned.
 - If a team member attempts to delete a another person's item, an error is returned.
 
 ### Acceptance Criteria/Steps
