@@ -90,6 +90,10 @@ There is no one correct way to do this, but you can look at the current tests an
 
 `curl http://localhost:8080/ToDoListItem/ByUser`
 
+## Walkthrough instructions
+
+- Note: To be updated later...
+
 
 
 
