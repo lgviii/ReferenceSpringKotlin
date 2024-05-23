@@ -1,10 +1,10 @@
-# Kotlin Testing Reference App
+# Kotlin TDD Testing Reference App
 
 ---
 
 ## Overview
 
-This project contains a reference implementation for a Spring web backend using a database and exposing service endpoints.
+This project contains a reference implementation for a Spring web backend using a database and exposing service endpoints. The project is set up for use in learning TDD for several types of tests.
 
 ### Areas covered
 - Kotlin
